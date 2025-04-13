@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning at the University of Westminster(IIT Sri Lanka)<br>⚡ Fun fact : Compose Music and a Book Girl 
+🌱 I’m currently an undergraduate at University of Westminster(IIT Sri Lanka)<br>⚡ Fun fact : Compose Music and a Love to write 
 
 
 ## 🌐 Socials:
