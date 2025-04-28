@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshalyaParanagama&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 👾 Random Hacker Code
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Access+Granted...;Initiating+Breaching+Sequence...;Decrypting+Passwords...;Welcome+to+
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Access+Granted...;Initiating+Breaching+Sequence...;Decrypting+Passwords...;Welcome+to+the+Matrix.)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AshalyaParanagama&limit=5&theme=dark&combine_all_yearly_contributions=true)
